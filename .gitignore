@@ -1,4 +1,4 @@
 /.idea/*
 *.pdf
-/logs_*
+/logs*
 /library/*.zip
