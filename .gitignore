@@ -1,4 +1,4 @@
-/.idea/*
+*2022*
 *.pdf
-/logs*
-/library/*.zip
+logs_*
+library/*.zip
